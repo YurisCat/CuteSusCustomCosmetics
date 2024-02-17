@@ -1,0 +1,22 @@
+{
+	"hats": [
+		{
+			"name":"白子测试",
+            "author":"猫",
+            "package":"联动包",
+            "condition":"None",
+            "resource":"2号白子.png",
+            "climbresource":"2号白子_flip.png",
+            "flipresource":"2号白子_flip.png"
+		},
+		{
+			"name":"白子测试2",
+            "author":"猫",
+            "package":"联动包",
+            "condition":"None",
+            "resource":"2号白子.png",
+            "climbresource":"2号白子_flip.png",
+            "flipresource":"2号白子_flip.png"
+		}
+	]
+}
