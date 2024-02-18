@@ -1,14 +1,12 @@
 {
     "hats": [
         {
-            "name": "白子测试2",
-            "author": "猫",
+            "name": "恶魔猫耳",
+            "author": "尤里的猫·卡里普索",
             "condition": "None",
-            "package": "联动包包包包",
-            "resource": "2号白子.png",
-            "flipresource": "2号白子_flip.png",
-            "climbresource": "2号白子_flip.png",
-            "adaptive": true
+            "package": "猫妈妈的馈赠",
+            "resource": "桃宝耳朵.png",
+			"backresource":"桃宝翅膀"
         }
     ]
 }
