@@ -6,7 +6,7 @@
             "condition": "None",
             "package": "猫妈妈的馈赠",
             "resource": "桃宝耳朵.png",
-			"backresource":"桃宝翅膀"
+			"backresource":"桃宝翅膀.png"
         }
     ]
 }
