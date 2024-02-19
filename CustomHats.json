@@ -1,12 +1,131 @@
 {
     "hats": [
         {
+            "name": "TNT和打火机",
+            "author": "尤里的猫·卡里普索",
+            "condition": "None",
+            "package": "猫妈妈的馈赠",
+            "resource": "TNT和打火机.png",
+			"adaptive": true
+        },
+		{
+            "name": "TNT和打火机不变色实验",
+            "author": "尤里的猫·卡里普索",
+            "condition": "None",
+            "package": "猫妈妈的馈赠",
+            "resource": "TNT和打火机.png"
+        },
+		{
+            "name": "弹跳吸管",
+            "author": "尤里的猫·卡里普索",
+            "condition": "None",
+            "package": "猫妈妈的馈赠",
+            "resource": "一根大吸管.png",
+			"bounce": true
+        },
+		{
+            "name": "奶茶时间",
+            "author": "尤里的猫·卡里普索",
+            "condition": "None",
+            "package": "猫妈妈的馈赠",
+            "resource": "一根大吸管.png",
+			"backresource":"手持奶茶.png"
+        },	
+		{
+            "name": "红色大呆毛",
+            "author": "尤里的猫·卡里普索",
+            "condition": "None",
+            "package": "猫妈妈的馈赠",
+            "resource": "红色大呆毛.png",
+			"bounce": true
+        },	
+		{
+            "name": "艾恺特星人",
+            "author": "尤里的猫·卡里普索",
+            "condition": "None",
+            "package": "猫妈妈的馈赠",
+            "resource": "艾恺特星人.png",
+			"bounce": true
+        },
+		{
+            "name": "睡魔大角！",
+            "author": "尤里的猫·卡里普索",
+            "condition": "None",
+            "package": "猫妈妈的馈赠",
+            "resource": "睡魔大角！.png"
+        },
+		{
+            "name": "睡魔大角打个结！",
+            "author": "尤里的猫·卡里普索",
+            "condition": "None",
+            "package": "猫妈妈的馈赠",
+            "resource": "睡魔大角打个结！.png"
+        },	
+		{
+            "name": "鱼鱼包",
+            "author": "尤里的猫·卡里普索",
+            "condition": "None",
+            "package": "猫妈妈的馈赠",
+            "resource": "鱼鱼包.png"
+        },
+		{
+            "name": "鱼鱼包再加鱼骨！",
+            "author": "尤里的猫·卡里普索",
+            "condition": "None",
+            "package": "猫妈妈的馈赠",
+            "resource": "鱼鱼包再加鱼骨！.png"
+        },	
+		{
+            "name": "威严执行者",
+            "author": "尤里的猫·卡里普索",
+            "condition": "None",
+            "package": "猫妈妈的馈赠",
+            "resource": "符瑶挂卡版.png"
+        },	
+		{
+            "name": "触手执行者",
+            "author": "尤里的猫·卡里普索",
+            "condition": "None",
+            "package": "猫妈妈的馈赠",
+            "resource": "符瑶触手版.png",
+			"backresource":"符瑶背后的触手.png"
+        },
+		{
+            "name": "幼稚园的独角兽",
+            "author": "尤里的猫·卡里普索",
+            "condition": "None",
+            "package": "猫妈妈的馈赠",
+            "resource": "幼稚园的独角兽.png"
+        },
+		{
+            "name": "弹力口水巾",
+            "author": "尤里的猫·卡里普索",
+            "condition": "None",
+            "package": "猫妈妈的馈赠",
+            "resource": "贵族口水巾.png",
+			"bounce": true
+        },
+		{
+            "name": "口水巾和小蜘蛛",
+            "author": "尤里的猫·卡里普索",
+            "condition": "None",
+            "package": "猫妈妈的馈赠",
+            "resource": "口水巾加蜘蛛.png",			
+        },		
+		{
+            "name": "趴头小蜘蛛",
+            "author": "尤里的猫·卡里普索",
+            "condition": "None",
+            "package": "猫妈妈的馈赠",
+            "resource": "头顶的小蜘蛛.png",			
+        },			
+        {
             "name": "恶魔猫耳",
             "author": "尤里的猫·卡里普索",
             "condition": "None",
             "package": "猫妈妈的馈赠",
-            "resource": "桃宝耳朵.png",
-			"backresource":"桃宝翅膀.png"
+            "resource": "白猫耳朵.png",
+			"backresource":"小恶魔翅膀.png"
         }
     ]
 }
