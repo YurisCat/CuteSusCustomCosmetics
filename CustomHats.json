@@ -14,7 +14,7 @@
             "condition": "None",
             "package": "猫妈妈的馈赠",
             "resource": "一根大吸管.png",
-			"behind": true
+			"behind": true,
 			"bounce": true
         },
 		{
@@ -23,9 +23,8 @@
             "condition": "None",
             "package": "猫妈妈的馈赠",
             "resource": "手持奶茶.png",
-			"backresource":"一根大吸管.png"
-			"adaptive": true
-			
+			"backresource":"一根大吸管.png",
+			"adaptive": true	
         },	
 		{
             "name": "红色大呆毛",
@@ -106,14 +105,14 @@
             "author": "尤里的猫·卡里普索",
             "condition": "None",
             "package": "猫妈妈的馈赠",
-            "resource": "口水巾加蜘蛛.png",			
+            "resource": "口水巾加蜘蛛.png"			
         },		
 		{
             "name": "趴头小蜘蛛",
             "author": "尤里的猫·卡里普索",
             "condition": "None",
             "package": "猫妈妈的馈赠",
-            "resource": "头顶的小蜘蛛.png",			
+            "resource": "头顶的小蜘蛛.png"			
         },			
         {
             "name": "恶魔猫耳",
