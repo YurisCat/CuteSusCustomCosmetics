@@ -13,7 +13,8 @@
             "author": "尤里的猫·卡里普索",
             "condition": "None",
             "package": "猫妈妈的馈赠",
-            "backresource": "一根大吸管.png",
+            "resource": "一根大吸管.png",
+			"behind": true
 			"bounce": true
         },
 		{
@@ -23,6 +24,8 @@
             "package": "猫妈妈的馈赠",
             "resource": "手持奶茶.png",
 			"backresource":"一根大吸管.png"
+			"adaptive": true
+			
         },	
 		{
             "name": "红色大呆毛",
@@ -58,16 +61,14 @@
             "author": "尤里的猫·卡里普索",
             "condition": "None",
             "package": "猫妈妈的馈赠",
-            "resource": "鱼鱼包.png",
-			"adaptive": true
+            "resource": "鱼鱼包.png"
         },
 		{
             "name": "鱼鱼包再加鱼骨！",
             "author": "尤里的猫·卡里普索",
             "condition": "None",
             "package": "猫妈妈的馈赠",
-            "resource": "鱼鱼包再加鱼骨！.png",
-			"adaptive": true
+            "resource": "鱼鱼包再加鱼骨！.png"
         },	
 		{
             "name": "威严执行者",
