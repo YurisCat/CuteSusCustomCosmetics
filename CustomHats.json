@@ -9,18 +9,11 @@
 			"adaptive": true
         },
 		{
-            "name": "TNT和打火机不变色实验",
-            "author": "尤里的猫·卡里普索",
-            "condition": "None",
-            "package": "猫妈妈的馈赠",
-            "resource": "TNT和打火机.png"
-        },
-		{
             "name": "弹跳吸管",
             "author": "尤里的猫·卡里普索",
             "condition": "None",
             "package": "猫妈妈的馈赠",
-            "resource": "一根大吸管.png",
+            "backresource": "一根大吸管.png",
 			"bounce": true
         },
 		{
@@ -28,16 +21,15 @@
             "author": "尤里的猫·卡里普索",
             "condition": "None",
             "package": "猫妈妈的馈赠",
-            "resource": "一根大吸管.png",
-			"backresource":"手持奶茶.png"
+            "resource": "手持奶茶.png",
+			"backresource":"一根大吸管.png"
         },	
 		{
             "name": "红色大呆毛",
             "author": "尤里的猫·卡里普索",
             "condition": "None",
             "package": "猫妈妈的馈赠",
-            "resource": "红色大呆毛.png",
-			"bounce": true
+            "resource": "红色大呆毛.png"
         },	
 		{
             "name": "艾恺特星人",
@@ -66,21 +58,24 @@
             "author": "尤里的猫·卡里普索",
             "condition": "None",
             "package": "猫妈妈的馈赠",
-            "resource": "鱼鱼包.png"
+            "resource": "鱼鱼包.png",
+			"adaptive": true
         },
 		{
             "name": "鱼鱼包再加鱼骨！",
             "author": "尤里的猫·卡里普索",
             "condition": "None",
             "package": "猫妈妈的馈赠",
-            "resource": "鱼鱼包再加鱼骨！.png"
+            "resource": "鱼鱼包再加鱼骨！.png",
+			"adaptive": true
         },	
 		{
             "name": "威严执行者",
             "author": "尤里的猫·卡里普索",
             "condition": "None",
             "package": "猫妈妈的馈赠",
-            "resource": "符瑶挂卡版.png"
+            "resource": "符瑶挂卡版.png",
+			"bounce": true
         },	
 		{
             "name": "触手执行者",
